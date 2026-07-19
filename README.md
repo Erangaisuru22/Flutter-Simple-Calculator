@@ -1,20 +1,3 @@
-# Flutter Calculator
+# flutter_application_1
 
-A simple calculator application built using Flutter.
-
-## Features
-
-- Addition (+)
-- Subtraction (-)
-- Multiplication (×)
-- Division (÷)
-- Decimal number support
-- Clear (C) button
-- Responsive Material Design UI
-
-## Technologies Used
-
-- Flutter
-- Dart
-- Material Design
-
+A new Flutter project.
